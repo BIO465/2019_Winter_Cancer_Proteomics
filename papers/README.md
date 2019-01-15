@@ -2,7 +2,7 @@
 # Annotated Bibliography: topics, paper, and databases
 
 ### protein complexes:
-#### [A census of human soluble protein complexes](https://www.sciencedirect.com/science/article/pii/S0092867412010069?via%3Dihub)
+####[A census of human soluble protein complexes](https://www.sciencedirect.com/science/article/pii/S0092867412010069?via%3Dihub)
 Biological processes depend on the proper interaction between proteins. Proteins often interact in complexes which perform biochemical activities related to cellular homeostasis, growth, and proliferation. The human genome codes about 20,000 proteins, how these are organized into "protein machine" complexes is promising research question.
 
 ### how we find protein complexes:
@@ -36,7 +36,9 @@ See which proteins have correlation, and you assert that they are somehow relate
 
 ### [Human Interactome Database](http://interactome.dfci.harvard.edu/H_sapiens/)
 
-### 
+### [CCSB Interactome Database](http://interactome.dfci.harvard.edu/)
+
+### {STRING](https://string-db.org/)
 
 
 
