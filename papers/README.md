@@ -15,7 +15,7 @@
 
 #### Bioinformatics Approach:
 
-*Summary from Dr. Payne: Take gobs of data from RNA-Seq and protein data from hundreds of experiments; See which proteins have correlation, and you assert that they are somehow related.
+*Summary from Dr. Payne: Take gobs of data from RNA-Seq and protein data from hundreds of experiments; See which proteins have correlation, and you assert that they are somehow related.*
 
 #### 
 
