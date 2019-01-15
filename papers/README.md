@@ -5,7 +5,7 @@
 
 ### how we find protein complexes:
 
-#### IP pull-down / tap-tagging
+#### [IP pull-down / tap-tagging](https://en.wikipedia.org/wiki/Immunoprecipitation#Individual_protein_immunoprecipitation_(IP))
 
 They make antibodies for hundresds of thousands of proteins. They pull out the protein that binds to the antibody gently, so they can get anything that was bound to it. They repeat it again and again
 
