@@ -1,5 +1,5 @@
 
-# Annotated Bibliography
+# Annotated Bibliography: topics, paper, and databases
 
 ### protein complexes:
 
@@ -10,6 +10,8 @@
 ### how protein complexes work in cancer:
 
 ### proteins in ovarian cancer:
+
+### complexes in a healthy tissue and in a cancerous tissue:
 
 
 ## Useful websites
