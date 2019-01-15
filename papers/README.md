@@ -44,6 +44,8 @@ See which proteins have correlation, and you assert that they are somehow relate
 
 ### [wiki-pi](https://hagrid.dbmi.pitt.edu/wiki-pi/)
 
+### {Int-Act](https://www.ebi.ac.uk/intact/)
+
 ---------------------
 
 
