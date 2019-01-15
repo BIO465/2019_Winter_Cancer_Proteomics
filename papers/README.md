@@ -5,6 +5,12 @@
 
 ### how we find protein complexes:
 
+#### IP pull-down / tap-tagging
+
+They make antibodies for hundresds of thousands of proteins. They pull out the protein that binds to the antibody gently, so they can get anything that was bound to it. They repeat it again and again
+
+#### 
+
 ### how fluid protein complesxes are:
 
 ### how protein complexes work in cancer:
@@ -18,7 +24,7 @@
 
 ### [Human Interactome Database](http://interactome.dfci.harvard.edu/H_sapiens/)
 
-###
+### 
 
 
 
