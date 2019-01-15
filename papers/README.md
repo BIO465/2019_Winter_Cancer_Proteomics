@@ -11,7 +11,7 @@ Biological processes depend on the proper interaction between proteins. Proteins
 
 They make antibodies for hundresds of thousands of proteins. They pull out the protein that binds to the antibody gently, so they can get anything that was bound to it. They repeat it again and again
 
-#### Yest-2 hybrid
+#### Yest-2 hybridization(https://en.wikipedia.org/wiki/Two-hybrid_screening)
 
 transcription factor and its activator.
 
