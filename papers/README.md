@@ -19,7 +19,7 @@
 
 #### 
 
-### how fluid protein complesxes are:
+### how fluid protein complexes are:
 
 ### how protein complexes work in cancer:
 
