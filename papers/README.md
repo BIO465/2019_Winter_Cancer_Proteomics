@@ -34,6 +34,7 @@ See which proteins have correlation, and you assert that they are somehow relate
 
 ### [CCSB Interactome Database](http://interactome.dfci.harvard.edu/)
 
+### [STRING](https://string-db.org/)
 
 
 ---------------------
