@@ -13,9 +13,9 @@
 
 *Sumary From Dr. Payne: On one side of a transcription factor, they clone in protein a, and on one side of the activator they clone in protein b. If A and B intearfct, transcription should still occur. If A and B don't intearct, then no transcriptino occurs. Involves millions of libraries.*
 
-#### RNA-Data/protein data from hudnreds of experiments
+#### Bioinformatics Approach:
 
-See which proteins have correlation, and you assert that they are somehow related.
+*Summary from Dr. Payne: Take gobs of data from RNA-Seq and protein data from hundreds of experiments; See which proteins have correlation, and you assert that they are somehow related.
 
 #### 
 
