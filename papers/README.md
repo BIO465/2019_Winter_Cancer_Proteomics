@@ -13,9 +13,7 @@ Biological processes depend on the proper interaction between proteins. Proteins
 
 #### [Yest-2 hybridization](https://en.wikipedia.org/wiki/Two-hybrid_screening)
 
-transcription factor and its activator.
-
-On one side of the transcription factor, they clone in protein a, and on one side of the activator they clone in protein b. If A and B intearfct, transcription should still occur. If A and B don't intearct, then no transcriptino occurs. Involves millions of libraries.
+*Summary from Dr. Payne: On one side of the transcription factor, they clone in protein a, and on one side of the activator they clone in protein b. If A and B intearfct, transcription should still occur. If A and B don't intearct, then no transcriptino occurs. Involves millions of libraries.*
 
 #### Bioinformatics Approach
 
