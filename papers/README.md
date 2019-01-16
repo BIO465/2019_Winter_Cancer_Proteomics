@@ -37,6 +37,8 @@ Biological processes depend on the proper interaction between proteins. Proteins
 
 ### [CCSB Interactome Database](http://interactome.dfci.harvard.edu/)
 
+### [CORUM](http://mips.helmholtz-muenchen.de/corum/)
+
 ### [STRING](https://string-db.org/)
 
 ### [GSP-prot](http://gpsprot.org/)
