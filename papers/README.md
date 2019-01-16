@@ -9,7 +9,7 @@ Biological processes depend on the proper interaction between proteins. Proteins
 
 #### [IP pull-down / tap-tagging](https://en.wikipedia.org/wiki/Immunoprecipitation#Individual_protein_immunoprecipitation_(IP))
 
-They make antibodies for hundresds of thousands of proteins. They pull out the protein that binds to the antibody gently, so they can get anything that was bound to it. They repeat it again and again
+*Description from Dr. Payne: they make antibodies for hundresds of thousands of proteins. They pull out the protein that binds to the antibody gently, so they can get anything that was bound to it. They repeat it again and again*
 
 #### [Yest-2 hybridization](https://en.wikipedia.org/wiki/Two-hybrid_screening)
 
@@ -17,9 +17,9 @@ transcription factor and its activator.
 
 On one side of the transcription factor, they clone in protein a, and on one side of the activator they clone in protein b. If A and B intearfct, transcription should still occur. If A and B don't intearct, then no transcriptino occurs. Involves millions of libraries.
 
-#### RNA-Data/protein data from hudnreds of experiments
+#### Bioinformatics Approach
 
-See which proteins have correlation, and you assert that they are somehow related.
+*Summary From Dr. Payne: Scrape data from hundreds of RNA-Seq and protein abundance experiments adn search for a correlation in expression between proteins.*
 
 #### 
 
