@@ -32,6 +32,7 @@ Biological processes depend on the proper interaction between proteins. Proteins
 
 ## Useful websites
 
+### [metazoan (animal) protein complexes](http://metazoa.med.utoronto.ca/)
 
 ### [Human Interactome Database](http://interactome.dfci.harvard.edu/H_sapiens/)
 
