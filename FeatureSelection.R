@@ -27,8 +27,8 @@ control=trainControl(method="repeatedcv", number=10, repeats=3)
 withCancerData=cbind(cancerPosNeg, withoutHighlyCorrelated)
 #identify start and end column
 i=1
-j=140 #Here's the problem. Doesn't like it much higher than 140. We need to get up to 2589.
-model=train(cancerPosNeg~., data=withCancerData[,i:j], method="lvq", trControl=control)
+j=2580 #Here's the problem. Doesn't like it much higher than 140. We need to get up to 2589.
+model=train(cancerPosNeg~., data=withCancerData[,i:j], method="rocc", trControl=control)
 #Rank by importance
 importance=varImp(model, scale=FALSE)
 print(importance)
