@@ -10,6 +10,9 @@ mydata=read.csv("LFQ_Data_Num.csv", stringsAsFactors = FALSE)
 cancerPosNeg=unlist(mydata[1,], use.names=FALSE)
 #Transpose data frame so that the rows are patients and the columns are proteins
 flipped=as.data.frame(t(mydata), stringsAsFactors = FALSE)
+proteinNamesTable=read.csv("ProteinNames.csv")
+proteinNames=as.vector(proteinNamesTable[,1])
+colnames(flipped)=proteinNames
 #Ensure that all the data is numeric in the data frame and convert to a matrix
 flipped[]=lapply(flipped[,2:6795], as.numeric)
 #Calculate correlation matrix
